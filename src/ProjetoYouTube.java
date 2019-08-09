@@ -2,8 +2,9 @@
 public class ProjetoYouTube {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
+		
+		//Teste funcionamento
 		Video v[] = new Video[3];
 		v[0] = new Video("Aula Java 01");
 		v[1] = new Video("Big Data");
